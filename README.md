@@ -1,6 +1,6 @@
 # DataScience
 Data science at TNFSH, 2019  
-gnsJhenJie Copyright, 2019
+gnsJhenJie Copyright, 2019  
 [jupyter nbviewer](https://nbviewer.jupyter.org/)  
 ### Open notebooks in nbviewer    
 /  
